@@ -1,0 +1,11 @@
+---
+title: Drukte in de zomervakantie
+date: 2019-08-09
+---
+Wij krijgen wel eens de vraag of het organiseren van een Track Meeting eigenlijk wel zin heeft zo midden in de zomervakantie. Als je naar de kalender van de atletiekunie kijkt, is er bijna niets te vinden. Maar waarschijnlijk omdat er bijna niets op de kalender staat, kan de atleet die zin heeft in een wedstrijdje vrijwel alleen bij ons terecht en dat gebeurde dus ook op de vijfde RunnersWorld Track Meeting van dit seizoen. Alle 24 regio&#8217;s die de atletieunie kent waren vertegenwoordigd en daarnaast hadden we deelnemers uit Duitsland, België, het Verenigd (?) Koninkrijk, Noorwegen, Marokko, Koeweit, India en Djibouti. Aan het einde van de avond telden we 611 inschrijvingen, duidelijk minder dan vorige keer maar in de vakantie periode was de belangstelling nog niet eerder zo groot.
+
+Op onze atletiekbaan zijn 2 finishlijnen getrokken en daardoor kunnen we onze sprinters meestal een &#8216;windmee garantie&#8217; geven. Gisteren stond eindelijk de wind eens uit een andere richting en maakten we voor het eerst bij de Track Meetings gebruik van de &#8216;NK-finish&#8217;. Veel atleten die regelmatig meedoen keken even verbaasd om zich heen en ook organisatorisch had het wat aanpassingen tot gevolg maar volgens ons is het uiteindelijk prima verlopen.
+
+Door de incourante nummers die op het programma stonden 150 m, 300 m en de 200 m horden, zijn er gisteren meer PR&#8217;s verbeterd dan anders en onze bestenlijsten kunnen weer een update gebruiken. De meest in het oog springende prestatie kwam pas in de laatste serie 3.000 m waar Silke Schmidt het wereldrecord voor de dames in de leeftijdscategorie 60+ (waar ze sinds 2 dagen lid van is) met meer dan 10 seconden verbeterde naar 10:43,68. Het komt niet vaak voor dat onze officials een wereldrecord formulier mogen ondertekenen.
+
+Al met al dus weer een geslaagde RunnersWorld Track Meeting. Op 30 augustus is de zesde en laatste Track Meeting van het seizoen en als het een beetje mee zit breken we dan ons record van 3.430 inschrijvingen uit 2015. Doe dus mee en help ons ook aan een record!

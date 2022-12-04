@@ -1,0 +1,32 @@
+baseURL = "https://www.durand.guru/"
+# include content marked as draft
+buildDrafts = false
+# include content with publishdate in the future
+buildFuture = false
+# include content already expired
+buildExpired = false
+# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+relativeURLs = true
+disableRSS = true
+enableRobotsTXT = true
+editor = "nano"
+languageCode = "nl"
+language = "nl"
+theme = "vncnt-hugo"
+title = "Durand Guru"
+
+[permalinks]
+  fixed = ":title/"
+  posts = "posts/:slug/"
+
+[params]
+  author = "Durand Guru"
+  description = "Landing Page"
+  bio = "Sebastiaan Durand  \nKVK 73601748  \nBTW NL001939185B36"
+  avatar = "img/logo.jpg"
+  favicon = "img/favicon.ico"
+  error404 = "There is no such page."
+
+  [params.contact]
+    linkedin = "https://www.linkedin.com/in/sebastiaandurand/"
+     
