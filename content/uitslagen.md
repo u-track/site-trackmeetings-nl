@@ -5,6 +5,7 @@ showDate: false
 showAuthor: true
 showReadingTime: false
 showEdit: false
+showTableOfContents: false
 ---
 ## Uitslagen
 

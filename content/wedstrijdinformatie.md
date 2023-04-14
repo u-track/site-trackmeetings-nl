@@ -5,6 +5,7 @@ showDate: false
 showAuthor: true
 showReadingTime: false
 showEdit: false
+showTableOfContents: false
 ---
 ## Inschrijven
 Voorinschrijving is mogelijk, zie deze pagina voor de website per wedstrijd. Per wedstrijd is de voorinschrijftermijn aangegeven op de betreffende wedstrijdpagina.

@@ -14,35 +14,10 @@
       {{ end }}
     {{ end }}
     <div class="place-self-center">
-      {{ with .Site.Author.name | markdownify | emojify }}
-        <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
-          {{ i18n "author.byline_title" | markdownify | emojify }}
-        </div>
-        <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-          {{ . }}
-        </div>
-      {{ end }}
       {{ with .Site.Author.bio | markdownify | emojify }}
         <div class="text-sm text-neutral-700 dark:text-neutral-400">{{ . }}</div>
       {{ end }}
       <div class="text-2xl sm:text-lg">{{ partialCached "author-links.html" . }}</div>
-    </div>
-    <div class="row">
-      <div class="column">
-        <a href = "https://avphoenix.nl/">
-          <img src="/img/logo_phoenix.png" alt="Atletiekvereniging Phoenix" style="width:66%">
-        </a>
-      </div>
-      <div class="column">
-        <a href = "https://www.runnersworld.nl/nl/vind-een-winkel/details/runnersworld-utrecht/">
-          <img src="/img/logo_rw.png" alt="Runnersworld Galgenwaard Utrecht" style="width:66%">
-        </a>
-      </div>
-      <div class="column">
-        <a href = "https://www.u-track.nl">
-          <img src="/img/logo_utrack.png" alt="Atletiekvereniging U-Track" style="width:25%">
-        </a>
-      </div>
     </div>
   </div>
 {{ end }}

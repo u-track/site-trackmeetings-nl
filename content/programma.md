@@ -5,6 +5,7 @@ showDate: false
 showAuthor: true
 showReadingTime: false
 showEdit: false
+showTableOfContents: false
 ---
 Na twee seizoenen vol coronamaatregelen hopen we dit jaar weer een ouderwetse zomer vol Track Meetings te kunnen organiseren! Op deze pagina vind je de onderdelen per avond en eventuele bijzonderheden.
 

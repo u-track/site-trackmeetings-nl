@@ -5,6 +5,7 @@ showDate: false
 showAuthor: true
 showReadingTime: false
 showEdit: false
+showTableOfContents: false
 ---
 De Runnersworld Track Meetings vinden sinds 2012 plaats op atletiekbaan Maarschalkerweerd. Op deze baan hebben ook al diverse (inter)nationale toernooien plaatsgevonden: de EYOF in 2013, de NK Masters in 2014 en de NK Atletiek in 2017, 2018 en 2020.
 

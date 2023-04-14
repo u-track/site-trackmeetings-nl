@@ -11,30 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "2022"
+  name = "2023"
   pageRef = "programma"
   weight = 10
 
 [[main]]
+  name = "Wedstrijdinformatie"
+  pageRef = "wedstrijdinformatie"
+  weight = 20
+
+[[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Maarschalkerweerd"
   pageRef = "maarschalkerweerd"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Uitslagen"
   pageRef = "uitslagen"
-  weight = 40
-  
-[[main]]
-  name = "Wedstrijdinformatie"
-  pageRef = "wedstrijdinformatie"
   weight = 50
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

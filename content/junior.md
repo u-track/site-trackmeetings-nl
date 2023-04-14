@@ -5,6 +5,7 @@ showDate: false
 showAuthor: true
 showReadingTime: false
 showEdit: false
+showTableOfContents: false
 draft: true
 ---
 De Runnersworld Track Meeting Junior is een instuifwedstrijd voor Junioren C en D. De wedstrijdopzet is hetzelfde als bij reguliere Track Meetings. Zo worden de series bij de looponderdelen ingedeeld op tijd, waarbij alle categorieën gemengd worden.
