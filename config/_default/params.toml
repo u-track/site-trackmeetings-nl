@@ -25,6 +25,10 @@ mainSections = ["nieuws"]
   showThemeAttribution = false
   showAppearanceSwitcher = false
   showScrollToTop = false
+  showCopyright2 = true
+  showThemeAttribution2 = true
+  showAppearanceSwitcher2 = true
+  showScrollToTop2 = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
