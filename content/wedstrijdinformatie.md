@@ -8,7 +8,7 @@ showEdit: false
 showTableOfContents: false
 ---
 ## Inschrijven
-Voorinschrijving is mogelijk, zie deze pagina voor de website per wedstrijd. Per wedstrijd is de voorinschrijftermijn aangegeven op de betreffende wedstrijdpagina.
+Voorinschrijving is mogelijk, zie deze [pagina](/programma) voor de website per wedstrijd. Per wedstrijd is de voorinschrijftermijn aangegeven op de betreffende wedstrijdpagina.
 
 De organisatie kan tijdens de voorinschrijving schuiven in het chronoloog en daarmee in het aantal beschikbare plekken per onderdeel, om zo meer ruimte te creëren op een gewild onderdeel en de capaciteit op een onderdeel waarvoor minder belangstelling is te verkleinen.
 
@@ -30,7 +30,7 @@ Indien er een limiet gehaald dient te worden voor een internationaal toernooi is
 
 *Als een afwijking van de normale verhoging nodig is voor een Nationaal Record/Limiet dan maken wij dat mogelijk.
 
-Sinds 20 jaar vindt de registratie van alle looponderdelen plaats met behulp van elektronische tijdmeting. Bij de sprint en het verspringen wordt ook een windmeter gebruikt.
+Sinds 25 jaar vindt de registratie van alle looponderdelen plaats met behulp van elektronische tijdmeting. Bij de sprint en het verspringen wordt ook een windmeter gebruikt.
 
 ## WPA Status
 Atleten met een lichamelijke handicap zijn bij de Runnersworld Track Meetings geen uitzondering. Wel bijzonder is dat wij sinds 2014 een WPA erkende wedstrijd zijn. Dit houdt in dat alle prestaties van atleten met een handicap, zoals limieten voor EK, WK, nationale records etc., erkend worden door World Para Athletics (WPA). De behaalde uitslagen komen op de WPA wereldranglijst.
