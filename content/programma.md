@@ -7,40 +7,40 @@ showReadingTime: false
 showEdit: false
 showTableOfContents: false
 ---
-Na twee seizoenen vol coronamaatregelen hopen we dit jaar weer een ouderwetse zomer vol Track Meetings te kunnen organiseren! Op deze pagina vind je de onderdelen per avond en eventuele bijzonderheden.
+Het indoorseizoen is nog in volle gang, maar wij kijken alvast naar buiten! De data van de Track Meetings 2023 zijn bekend: op vrijdag 12 mei, 2 en 16 juni, 7 juli, 4 augustus en 1 september maken we er met z’n allen weer een mooi atletiekfeest van op Maarschalkerweerd!
+
+Let op: ons wedstrijdsecretariaat werkt vanaf dit jaar met Seltec. Dat betekent dat je ons niet meer tegenkomt op Atletiek.nu, maar alle wedstrijdinformatie en de inschrijfmogelijkheid vindt op de wedstrijdkalender van de Atletiekunie.
 
 Alle onderdelen worden zowel voor vrouwen als voor mannen aangeboden. Spring- en werponderdelen zijn soms gemengd, soms in ongemengde groepen. De (vlakke) looponderdelen zijn altijd gemengd, tenzij er om bijvoorbeeld (als vrouw) een internationale limiet te lopen een serie met alleen vrouwen wordt aangevraagd.
 
-### Track Meeting 1 - 22 april 2022
-_Onderdelen:_ 100m, 400m, 800m, 1500m, 3000m, 3000m steeple chase (alleen mannen), verspringen, hinkstapspringen, hoogspringen, kogelstoten, kogelslingeren.
+### Track Meeting 1 - 12 mei 2023
+_Onderdelen:_ 100m, 200m, 800m, 1500m, 5000m, 110m horden, verspringen, hoogspringen, kogelstoten, kogelslingeren.
 
-_Inschrijving en uitslagen:_ via [Atletiek.nu](https://www.atletiek.nu/wedstrijd/main/37535/).
+_Inschrijving en uitslagen:_ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=864).
 
-### Track Meeting 2 - Lars Janssen memorial - 13 mei 2022  
-** _Onderdelen:_ 100m, 200m, 800m, 1500m, 3000m, 400m horden, verspringen, hoogspringen, polsstokhoogspringen, kogelstoten, speerwerpen.
+### Track Meeting 2 - 2 juni 2023  
+** _Onderdelen:_ 100m, 200m, 800m, 1500m, 3000m, 400m horden, verspringen, hinkstapspringen, hoogspringen, polsstokhoogspringen, kogelstoten, speerwerpen.
 
-__Inschrijving en uitslagen:__ via [Atletiek.nu](https://www.atletiek.nu/wedstrijd/main/37552/).
+__Inschrijving en uitslagen:__ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=865).
 
-Bijzonderheden: ter nagedachtenis aan [Lars Janssen](https://avphoenix.nl/in-memoriam/lars-janssen-overleden/), bij leven lid van AV Phoenix, draagt deze Track Meeting de titel "Lars Janssen memorial".
-
-### Track Meeting 3 - 10 juni 2022
+### Track Meeting 3 - 16 juni 2023
 _Onderdelen:_ 100m, 400m, 800m, 1500m, 3000m, 100/110m horden, verspringen, hinkstapspringen, hoogspringen, kogelstoten, discuswerpen.
 
-__Inschrijving en uitslagen:__ via [Atletiek.nu](https://www.atletiek.nu/wedstrijd/main/37748/).
+__Inschrijving en uitslagen:__ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=866).
 
-### Track Meeting 4 - 8 juli 2022
+### Track Meeting 4 - 7 juli 2023
 _Onderdelen:_ 100m, 200m, 800m, 1500m, 3000m, 400m horden, verspringen, hinkstapspringen, hoogspringen, polsstokhoogspringen, kogelstoten, speerwerpen.
 
-__Inschrijving en uitslagen:__ via [Atletiek.nu](https://www.atletiek.nu/wedstrijd/main/37827/).
+__Inschrijving en uitslagen:__ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=867).
 
-### Track Meeting 5 - 5 augustus 2022
-_Onderdelen:_ 150m, 300m, 800m, 1500m, 5000m, 200m horden, verspringen, hoogspringen, kogelstoten, discuswerpen.
+### Track Meeting 5 - 4 augustus 2023
+_Onderdelen:_ 150m, 300m, 800m, Engelese Mijl, 5000m, 200m horden, verspringen, hoogspringen, kogelstoten, discuswerpen.
 
-__Inschrijving en uitslagen:__ via [Atletiek.nu](https://www.atletiek.nu/wedstrijd/main/37927/).
+__Inschrijving en uitslagen:__ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=868).
 
-### Track Meeting 6 - 26 augustus 2022
+### Track Meeting 6 - 1 spetember 2023
 _Onderdelen:_ 100m, 400m, 800m, 1500m, 3000m, 100/110m horden, verspringen, hinkstapspringen, hoogspringen, kogelstoten, kogelslingeren.
 
-__Inschrijving en uitslagen:__ via [Atletiek.nu](https://www.atletiek.nu/wedstrijd/main/37940/).
+__Inschrijving en uitslagen:__ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=869).
 
  ---
