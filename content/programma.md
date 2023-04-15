@@ -1,5 +1,5 @@
 ---
-title: "Seizoen 2022"
+title: "Seizoen 2023"
 description: "Wedstrijdinformatie Runnersworld Track Meetings Utrecht"
 showDate: false
 showAuthor: true

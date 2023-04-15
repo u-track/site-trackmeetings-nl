@@ -7,6 +7,11 @@ showReadingTime: false
 showEdit: false
 showTableOfContents: false
 ---
+## Bestenlijsten
+
+- [Lopen](/bestenlijsten/TM_bestenlijst_lopen.xlsx)
+- [Technisch](/bestenlijsten/TM_bestenlijst_technisch.xlsx)
+
 ## Uitslagen
 
 {{< alert >}}
