@@ -7,7 +7,7 @@ showReadingTime: false
 showEdit: false
 showTableOfContents: false
 ---
-Het indoorseizoen is nog in volle gang, maar wij kijken alvast naar buiten! De data van de Track Meetings 2023 zijn bekend: op vrijdag 12 mei, 2 en 16 juni, 7 juli, 4 augustus en 1 september maken we er met z’n allen weer een mooi atletiekfeest van op Maarschalkerweerd!
+Het duurt niet lang meer voordat de Track Meetings beginnen. Dit jaar worden ze gehouden op vrijdag 12 mei, 2 en 16 juni, 7 juli, 4 augustus en 1 september. De Track Meetings zijn onderdeel van de Track & Field series en zijn dit jaar ook WA erkend. We hebben zin om er met z’n allen weer een mooi atletiekfeest van te maken op Maarschalkerweerd!
 
 Let op: ons wedstrijdsecretariaat werkt vanaf dit jaar met Seltec. Dat betekent dat je ons niet meer tegenkomt op Atletiek.nu, maar alle wedstrijdinformatie en de inschrijfmogelijkheid vindt op de wedstrijdkalender van de Atletiekunie.
 
