@@ -1,5 +1,5 @@
 ---
-title: "Uitslagen"
+title: "Bestenlijsten en Uitslagen"
 description: "Uitslagen Runnersworld Track Meetings Utrecht"
 showDate: false
 showAuthor: true
@@ -7,10 +7,16 @@ showReadingTime: false
 showEdit: false
 showTableOfContents: false
 ---
+
 ## Bestenlijsten
+Wij houden een lijst bij met de beste prestaties van de atleten die deelnamen aan de Track Meetings (laatste update: 11-05-2023)
 
 - [Lopen](/bestenlijsten/TM_bestenlijst_lopen.xlsx)
 - [Technisch](/bestenlijsten/TM_bestenlijst_technisch.xlsx)
+
+In deze lijsten staan alle resultaten sinds 1998 (het eerste jaar dat wij de resultaten digitaal beschikbaar hebben) en die wij sindsdien bijgehouden hebben.
+Resultaten van speciale evenementen zijn hierbij niet meegenomen. Masters worden gecombineerd met senioren.  
+Indien een atleet meer dan één keer in de top-10 eindigde, wordt alleen het beste resultaat in de lijst opgenomen. Masters zijn hierbij geen aparte categorie.
 
 ## Uitslagen
 
@@ -21,7 +27,7 @@ Momenteel zijn niet alle uitslagen beschikbaar. Wij werken hier aan.
 ### 2023
 |      |
 |------|
-| [12-05-2023](https://www.atletiek.nl/wedstrijdkalender/tournament-results/864) |
+| [12-05-2023](https://www.atletiek.nl/wedstrijdkalender/?id=864) |
 
 ### 2022
 |      |
@@ -268,16 +274,5 @@ Momenteel zijn niet alle uitslagen beschikbaar. Wij werken hier aan.
 | []() |
 | []() |
 | []() |
-
-## Bestenlijsten
-Wij houden een lijst bij met de beste prestaties van de atleten die deelnamen aan de Track Meetings (laatste update: 31 december 2017)
-
-{{< alert >}}
-Momenteel zijn de bestenlijsten niet beschikbaar. We werken aan het beschikbaar maken van de bestenlijsten.
-{{< /alert >}}
-
-In deze lijsten staan alle resultaten sinds 1998 (het eerste jaar dat wij de resultaten digitaal beschikbaar hebben) en die wij sindsdien bijgehouden hebben.
-Resultaten van speciale evenementen zijn hierbij niet meegenomen. Masters worden gecombineerd met senioren.  
-Indien een atleet meer dan één keer in de top-10 eindigde, wordt alleen het beste resultaat in de lijst opgenomen. Masters zijn hierbij geen aparte categorie.
 
 ---
