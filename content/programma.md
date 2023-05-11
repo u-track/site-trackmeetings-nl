@@ -19,7 +19,7 @@ _Onderdelen:_ 100m, 200m, 800m, 1500m, 5000m, 110m horden, verspringen, hoogspri
 _Inschrijving en uitslagen:_ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=864).
 
 ### Track Meeting 2 - 2 juni 2023  
-** _Onderdelen:_ 100m, 200m, 800m, 1500m, 3000m, 400m horden, verspringen, hinkstapspringen, hoogspringen, polsstokhoogspringen, kogelstoten, speerwerpen.
+_Onderdelen:_ 100m, 200m, 800m, 1500m, 3000m, 400m horden, verspringen, hinkstapspringen, hoogspringen, polsstokhoogspringen, kogelstoten, speerwerpen.
 
 __Inschrijving en uitslagen:__ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=865).
 
