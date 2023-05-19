@@ -32,12 +32,12 @@ Momenteel zijn niet alle uitslagen beschikbaar. Wij werken hier aan.
 ### 2022
 |      |
 |------|
-| [26-08-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37940/) |
-| [05-08-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37927/) |
-| [08-07-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37827/) |
-| [10-06-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37748/) |
-| [13-05-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37552/) |
-| [22-04-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37535/) |
+| [26-08-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37940/) [PDF](/uitslagen/20220826.pdf) [XLS](/uitslagen/20220826.xls)|
+| [05-08-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37927/) [PDF](/uitslagen/20220805.pdf) [XLS](/uitslagen/20220805.xls)|
+| [08-07-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37827/) [PDF](/uitslagen/20220708.pdf) [XLS](/uitslagen/20220708.xls)|
+| [10-06-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37748/) [PDF](/uitslagen/20220610.pdf) [XLS](/uitslagen/20220610.xls)|
+| [13-05-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37552/) [PDF](/uitslagen/20220513.pdf) [XLS](/uitslagen/20220513.xls)|
+| [22-04-2022](https://www.atletiek.nu/wedstrijd/uitslagen/37535/) [PDF](/uitslagen/20220422.pdf) [XLS](/uitslagen/20220422.xls)|
 
 ### 2021
 |      |
