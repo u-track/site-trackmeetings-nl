@@ -51,9 +51,9 @@ Momenteel zijn niet alle uitslagen beschikbaar. Wij werken hier aan.
 ### 2020
 |      |
 |------|
-| [07-08-2020](https://www.atletiek.nu/wedstrijd/uitslagen/33086/) |
-| [18-07-2020](https://www.atletiek.nu/wedstrijd/uitslagen/33839/) |
-| [10-07-2020](https://www.atletiek.nu/wedstrijd/uitslagen/33084/) |
+| [07-08-2020](https://www.atletiek.nu/wedstrijd/uitslagen/33086/) [PDF](/uitslagen/20200807.pdf) [XLS](/uitslagen/20200807.xls)|
+| [18-07-2020](https://www.atletiek.nu/wedstrijd/uitslagen/33839/) [PDF](/uitslagen/20200718.pdf) [XLS](/uitslagen/20200718.xls)|
+| [10-07-2020](https://www.atletiek.nu/wedstrijd/uitslagen/33084/) [PDF](/uitslagen/20200710.pdf) [XLS](/uitslagen/20200710.xls)|
 
 ### 2019
 |      |
