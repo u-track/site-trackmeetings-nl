@@ -38,7 +38,7 @@ _Onderdelen:_ 150m, 300m, 800m, Engelese Mijl, 5000m, 200m horden, verspringen, 
 
 __Inschrijving en uitslagen:__ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=868).
 
-### Track Meeting 6 - 1 spetember 2023
+### Track Meeting 6 - 1 september 2023
 _Onderdelen:_ 100m, 400m, 800m, 1500m, 3000m, 100/110m horden, verspringen, hinkstapspringen, hoogspringen, kogelstoten, kogelslingeren.
 
 __Inschrijving en uitslagen:__ via [Atletiek.nl](https://www.atletiek.nl/wedstrijdkalender/?id=869).
