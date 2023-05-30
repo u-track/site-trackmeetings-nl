@@ -58,12 +58,12 @@ Momenteel zijn niet alle uitslagen beschikbaar. Wij werken hier aan.
 ### 2019
 |      |
 |------|
-| [30-08-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25219/) |
-| [09-08-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25218/) |
-| [12-07-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25217/) |
-| [21-06-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25216/) |
-| [24-05-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25215/) |
-| [03-05-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25214/) |
+| [30-08-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25219/) [PDF](/uitslagen/20190830.pdf) [XLS](/uitslagen/20190830.xls)|
+| [09-08-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25218/) [PDF](/uitslagen/20190809.pdf) [XLS](/uitslagen/20190809.xls)|
+| [12-07-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25217/) [PDF](/uitslagen/20190712.pdf) [XLS](/uitslagen/20190712.xls)|
+| [21-06-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25216/) [PDF](/uitslagen/20190621.pdf) [XLS](/uitslagen/20190621.xls)|
+| [24-05-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25215/) [PDF](/uitslagen/20190524.pdf) [XLS](/uitslagen/20190524.xls)|
+| [03-05-2019](https://www.atletiek.nu/wedstrijd/uitslagen/25214/) [PDF](/uitslagen/20190503.pdf) [XLS](/uitslagen/20190503.xls)|
 
 ### 2018
 |      |
