@@ -27,6 +27,7 @@ Momenteel zijn niet alle uitslagen beschikbaar. Wij werken hier aan.
 ### 2023
 |      |
 |------|
+| [02-06-2023](https://www.atletiek.nl/wedstrijdkalender/?id=865) [PDF](/uitslagen/20230602.pdf)|
 | [12-05-2023](https://www.atletiek.nl/wedstrijdkalender/?id=864) [PDF](/uitslagen/20230512.pdf)|
 
 ### 2022
