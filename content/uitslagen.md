@@ -9,7 +9,7 @@ showTableOfContents: false
 ---
 
 ## Bestenlijsten
-Wij houden een lijst bij met de beste prestaties van de atleten die deelnamen aan de Track Meetings (laatste update: 17-06-2023)
+Wij houden een lijst bij met de beste prestaties van de atleten die deelnamen aan de Track Meetings (laatste update: 10-07-2023)
 
 - [Lopen](/bestenlijsten/TM_bestenlijst_lopen.xlsx)
 - [Technisch](/bestenlijsten/TM_bestenlijst_technisch.xlsx)
